@@ -19,6 +19,8 @@ Valor del modulo
 
 con todos lo valores generados de presenta la siguiente serie.
 
+![Captura de pantalla de 2019-05-26 23-32-33](https://user-images.githubusercontent.com/33550350/58395583-963d2d80-800e-11e9-9414-71f56dc33a64.png)
+
 
 
 
