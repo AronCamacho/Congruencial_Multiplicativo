@@ -7,4 +7,7 @@
 
 - Luego de declarar las variables se ejecuta en programa en el cual se pide el valor de las mismas para el calculo de la serie.
 
+![Captura de pantalla de 2019-05-26 23-23-19](https://user-images.githubusercontent.com/33550350/58395368-63df0080-800d-11e9-844b-f7e0978a7df7.png)
+
+
 
