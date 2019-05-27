@@ -15,6 +15,11 @@ Valor de la constante multiplicativa
 
 Valor del modulo
 
+![Captura de pantalla de 2019-05-26 23-27-38](https://user-images.githubusercontent.com/33550350/58395448-e667c000-800d-11e9-9881-ebb4afe7af10.png)
+
+con todos lo valores generados de presenta la siguiente serie.
+
+
 
 
 
